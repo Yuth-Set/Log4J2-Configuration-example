@@ -1,0 +1,12 @@
+[INFO ] 02-06-2017 11:13:17.033 [http-nio-8080-exec-1] SampleController - Info message
+[WARN ] 02-06-2017 11:13:17.033 [http-nio-8080-exec-1] SampleController - Warn message
+[ERROR] 02-06-2017 11:13:17.034 [http-nio-8080-exec-1] SampleController - Error message
+[INFO ] 02-06-2017 11:24:15.603 [http-nio-8080-exec-1] SampleController - Info message
+[WARN ] 02-06-2017 11:24:15.604 [http-nio-8080-exec-1] SampleController - Warn message
+[ERROR] 02-06-2017 11:24:15.604 [http-nio-8080-exec-1] SampleController - Error message
+[INFO ] 02-06-2017 11:24:16.754 [http-nio-8080-exec-3] SampleController - Info message
+[WARN ] 02-06-2017 11:24:16.755 [http-nio-8080-exec-3] SampleController - Warn message
+[ERROR] 02-06-2017 11:24:16.755 [http-nio-8080-exec-3] SampleController - Error message
+[INFO ] 02-06-2017 11:24:17.207 [http-nio-8080-exec-5] SampleController - Info message
+[WARN ] 02-06-2017 11:24:17.208 [http-nio-8080-exec-5] SampleController - Warn message
+[ERROR] 02-06-2017 11:24:17.208 [http-nio-8080-exec-5] SampleController - Error message
